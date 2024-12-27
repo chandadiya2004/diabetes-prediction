@@ -1,3 +1,4 @@
+![Diabetes Prediction](https://i.ytimg.com/vi/SFAAg_LJ87c/maxresdefault.jpg)
 # Diabetes Prediction using Machine Learning
 This project focuses on predicting whether an individual has diabetes using machine learning techniques based on various health parameters. The dataset includes features like age, BMI, blood pressure, and other health-related factors. The Support Vector Machine (SVM) algorithm is utilized to build an efficient classification model.
 
