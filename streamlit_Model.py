@@ -3,7 +3,7 @@ import pickle
 import pandas as pd
 
 # Load the saved model
-with open("E:/Documents(p)/Machine_Learning_Project/ML_PROJECTS/Streamlit project/Diabetes/diabetes_prediction_model.pkl", 'rb') as file:
+with open("diabetes_prediction_model.pkl", 'rb') as file:
     model = pickle.load(file)
 
 # Function to make predictions
