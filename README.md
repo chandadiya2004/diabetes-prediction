@@ -1,4 +1,4 @@
-![Diabetes Prediction](https://api.deepai.org/job-view-file/3971ac91-80c4-4e6f-8aed-26c5113ff690/outputs/output.jpg?art-image=true)
+
 # Diabetes Prediction using Machine Learning
 This project focuses on predicting whether an individual has diabetes using machine learning techniques based on various health parameters. The dataset includes features like age, BMI, blood pressure, and other health-related factors. The Support Vector Machine (SVM) algorithm is utilized to build an efficient classification model.
 
