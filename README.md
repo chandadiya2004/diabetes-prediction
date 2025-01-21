@@ -12,6 +12,9 @@ This project focuses on predicting whether an individual has diabetes using mach
 
 # Technologies Used:
 Python for development
+
 scikit-learn for machine learning tasks
+
 Streamlit for building an interactive web application
+
 Pickle for saving and reusing the trained model
